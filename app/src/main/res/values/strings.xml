@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">HIIT Timer</string>
+
+    <!-- Presets -->
+    <string name="preset_tabata">Tabata</string>
+    <string name="preset_emom">EMOM 10 min</string>
+    <string name="preset_amrap">AMRAP 12 min</string>
+    <string name="preset_circuit">Bodyweight circuit</string>
+    <string-array name="preset_circuit_exercises">
+        <item>Squats</item>
+        <item>Push-ups</item>
+        <item>Mountain climbers</item>
+        <item>Plank</item>
+    </string-array>
+    <string name="copy_name">%1$s (copy)</string>
+    <string name="new_workout_name">My workout</string>
+
+    <!-- List -->
+    <string name="new_workout">New workout</string>
+    <string name="edit_workout">Edit workout</string>
+    <string name="settings">Settings</string>
+    <string name="empty_list">No workouts yet. Tap New workout to make one.</string>
+    <string name="total_label">Total %1$s</string>
+    <string name="start_named">Start %1$s</string>
+    <string name="more_options">More options</string>
+    <string name="edit">Edit</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_title">Delete “%1$s”?</string>
+    <string name="summary_amrap">As many rounds as possible in %1$s</string>
+    <string name="summary_emom">Every %1$s × %2$d</string>
+    <string name="summary_intervals">%1$s work · %2$s rest × %3$d</string>
+    <string name="summary_sets">%1$d sets</string>
+
+    <!-- Editor -->
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="field_name">Name</string>
+    <string name="kind_tabata">Tabata</string>
+    <string name="kind_emom">EMOM</string>
+    <string name="kind_amrap">AMRAP</string>
+    <string name="kind_custom">Custom</string>
+    <string name="hint_tabata">Classic Tabata: 20 s flat out, 10 s rest, 8 rounds. Adjust anything you like.</string>
+    <string name="hint_emom">Every minute on the minute: start a set at the top of each interval and rest for whatever is left.</string>
+    <string name="hint_amrap">As many rounds as possible: one countdown, you keep the count.</string>
+    <string name="hint_custom">Work and rest intervals, grouped into rounds and sets.</string>
+    <string name="field_prepare">Get ready</string>
+    <string name="field_work">Work</string>
+    <string name="field_rest">Rest</string>
+    <string name="field_rounds">Rounds</string>
+    <string name="field_sets">Sets</string>
+    <string name="field_set_rest">Rest between sets</string>
+    <string name="field_cooldown">Cool-down</string>
+    <string name="field_amrap_time">Time cap</string>
+    <string name="field_emom_interval">Interval</string>
+    <string name="exercises_title">Exercises (optional)</string>
+    <string name="exercises_hint">Names for each round\'s work interval. Fewer names than rounds repeat in order.</string>
+    <string name="round_label">Round %1$d</string>
+    <string name="add_exercise">Add exercise</string>
+    <string name="remove_exercise">Remove exercise</string>
+    <string name="decrease">Decrease %1$s</string>
+    <string name="increase">Increase %1$s</string>
+
+    <!-- Phases; also what the voice says -->
+    <string name="phase_prepare">Get ready</string>
+    <string name="phase_work">Work</string>
+    <string name="phase_rest">Rest</string>
+    <string name="phase_set_rest">Set rest</string>
+    <string name="phase_cooldown">Cool down</string>
+    <string name="say_halfway">Halfway</string>
+    <string name="say_last_round">Last round</string>
+    <string name="say_finished">Workout complete</string>
+
+    <!-- Running -->
+    <string name="label_round">Round</string>
+    <string name="label_set">Set</string>
+    <string name="round_of">Round %1$d/%2$d</string>
+    <string name="set_of">Set %1$d/%2$d</string>
+    <string name="next_up">Next: %1$s · %2$s</string>
+    <string name="next_finish">Next: finish</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_previous">Previous</string>
+    <string name="stop">Stop</string>
+    <string name="stop_title">Stop workout?</string>
+    <string name="stop_message">Your progress in this workout will be lost.</string>
+    <string name="keep_going">Keep going</string>
+    <string name="finished_title">Done!</string>
+    <string name="finished_time">Total time %1$s</string>
+    <string name="done">Done</string>
+
+    <!-- Notification -->
+    <string name="channel_timer">Workout timer</string>
+    <string name="channel_timer_description">Shows the running workout with pause and skip controls.</string>
+    <string name="notif_paused_prefix">Paused:</string>
+    <string name="notif_left">%1$s left</string>
+
+    <!-- Settings -->
+    <string name="setting_sound">Beeps</string>
+    <string name="setting_sound_summary">Beep on the last 3 seconds and at every phase change</string>
+    <string name="setting_voice">Voice announcements</string>
+    <string name="setting_voice_summary">Say the phase, exercise, \"Halfway\" and \"Last round\" using the phone\'s text-to-speech</string>
+    <string name="setting_vibrate">Vibration</string>
+    <string name="setting_vibrate_summary">Buzz with each cue, for when the music is loud</string>
+    <string name="about_text">Changes apply to the next workout you start.\n\nHIIT Timer is free and open source (MIT). No ads, no tracking, no account, and no internet permission: everything stays on this phone. Cues play over your music, which dips briefly instead of stopping.</string>
+</resources>
