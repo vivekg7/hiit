@@ -1,0 +1,26 @@
+An interval timer for HIIT, Tabata, EMOM, AMRAP and circuit workouts. Free, open source, with no ads, no tracking, no account and no internet permission.
+
+<b>Workouts</b>
+<ul>
+<li>Ready-made Tabata (20/10 × 8), EMOM, AMRAP and a bodyweight circuit</li>
+<li>Build your own: get-ready time, work, rest, rounds, sets, rest between sets and a cool-down</li>
+<li>Optional exercise names for each round, announced as they come up</li>
+<li>Save, edit, duplicate and delete workouts; the total time is shown before you start</li>
+</ul>
+
+<b>While you train</b>
+<ul>
+<li>Full-screen phase colours (get ready, work, rest) readable from across the room</li>
+<li>Huge countdown with a progress ring, round and set counters, and what's next</li>
+<li>Pause, resume, skip and go back; stopping asks first</li>
+<li>Screen stays on</li>
+</ul>
+
+<b>Cues that work with the screen off</b>
+<ul>
+<li>Beeps for the last 3 seconds and at every phase change</li>
+<li>Optional voice: "Work", "Rest", "Halfway", "Last round", exercise names</li>
+<li>Vibration</li>
+<li>Your music dips under each cue instead of stopping</li>
+<li>Keeps exact time in the background and on the lock screen, with pause and skip in the notification</li>
+</ul>

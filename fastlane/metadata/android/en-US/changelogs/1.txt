@@ -1,0 +1,1 @@
+First release: Tabata, EMOM, AMRAP and custom interval workouts with beeps, voice and vibration cues, a lock-screen notification with pause and skip, and exact timing in the background.
